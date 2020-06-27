@@ -1,6 +1,6 @@
 # **Project 0**
 ## A personal website using:
--HTML
--CSS
--SCSS
--BOOTSTRAP
+* HTML
+* CSS
+* SCSS
+* BOOTSTRAP
